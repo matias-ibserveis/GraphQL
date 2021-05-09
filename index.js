@@ -8,7 +8,7 @@ var app = express();
 app.use(
     postgraphile(
         process.env.DATABASE_URL || "postgres://postgres:siurell123@0.0.0.0:5432/api",
-        "public", {
+        "test_schema", {
             watchPg: true,
             graphiql: true,
             enhanceGraphiql: true,
