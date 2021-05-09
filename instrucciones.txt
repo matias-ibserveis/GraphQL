@@ -1,0 +1,23 @@
+96Graphql -inicio server
+
+Bases-PostGRaphile:
+1) 5minutes: https://dev.to/simerca/make-a-fast-auto-graphql-server-with-nodejs-and-postgres-in-5-minutes-146h
+
+https://dev.to/dosco/build-high-performance-graphql-apis-in-5-minutes-with-graphjin-261o
+
+
+2) intro CREATE (tablas/schema): https://blog.logrocket.com/intro-to-postgres-graphql-with-postgraphile/
+
+3) FUllstack https://medium.com/make-it-heady/part-1-building-full-stack-web-app-with-postgraphile-and-react-server-side-529e2f19e6f1
+
+4) Youtube  JamesMoore (knowthen):https://www.youtube.com/watch?v=eDZO8z1qw3k
+
+0) Udemy Inicio Graph: https://www.udemy.com/course/graphql-for-beginners-with-javascript/learn/lecture/11835830#overview
+
+0.1) CRUD:  https://blog.logrocket.com/nodejs-expressjs-postgresql-crud-rest-api-example/
+0.2) psql :  https://remot-technologies.com/como-anadir-postgresql-a-las-variables-de-entorno-de-windows-10/
+
+
+¿Utilizar prism (y prismastudio)  solo para crear basae datos postgres?
+
+POSTGRES JSON : https://www.postgresqltutorial.com/postgresql-json/
